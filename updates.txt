@@ -1,0 +1,4 @@
+This program is written in C++ where we are giving a natural number as an input and we get factorial of that number as an output. 
+This program contains a function named "fact".
+If the user enters any number, say "n".
+It enters the function and the function calls itslef again and again until n becomes 1.
